@@ -2,7 +2,7 @@
 
 const simpleDetails = {
   firstName: "Qas",
-  Age: 22,
+  Age: 21,
   Location: "London",
   hasDriverLicense: "True",
 
